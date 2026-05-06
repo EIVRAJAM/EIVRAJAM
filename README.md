@@ -1,5 +1,5 @@
 # About Me:
-Software Developer with over 3 years of experience building and deploying applications using a wide range of full-stack technologies. Proficient in Data Structures and Algorithms with a solid foundation in database management, REST APIs, Python, TypeScript and Java. Strong track record of solving complex software challenges on time and under pressure.
+Software Developer with over 4 years of experience building and deploying applications using a wide range of full-stack technologies. Proficient in Data Structures and Algorithms with a solid foundation in database management, REST APIs, Python, TypeScript and Java. Strong track record of solving complex software challenges on time and under pressure.
 
 
 # Tech Stack:
